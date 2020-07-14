@@ -6,9 +6,23 @@
 * M:N -> a table
 
 ## explanation keys
-* ractangle: entity
-* oval: attribute
-* diamond: relationship
+* ractangle: entity =table
+* oval: attribute =coloumn=field (degree is number of columns)
+* diamond: relationship sets
 * line: links attributes to entity set or vice versa
+
+row=tuple(cadinality is number of rows)
+
+## relational schema and instance
+relational schema
+AUTHOR(AuthorID: char, lastname: varchar, firstname: varchar, email: varchar, city: varchar, country: char)
+
+relation instance: a table with data
+
+
+
+
+
+
 
 
