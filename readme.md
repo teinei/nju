@@ -30,7 +30,9 @@ If you wish to set tracking information for this branch you can do so with:
 
 ```
 git branch --set-upstream-to=origin/master master
-``````
+```
+
+```
 $ git config --global user.name "teinei"
 $ git config --global user.email "teinei@laposter.net"
 ```
@@ -40,11 +42,13 @@ some prompt
 warning: push.default is unset; its implicit value has changed in
 Git 2.0 from 'matching' to 'simple'. To squelch this message
 and maintain the traditional behavior, use:
+
 ```
   git config --global push.default matching
 ```
 
 To squelch this message and adopt the new behavior now, use:
+
 ```
   git config --global push.default simple
 ```
