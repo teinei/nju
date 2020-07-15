@@ -1,4 +1,4 @@
-university of colorado system
+## university of colorado system
 c specialization
 
 course1
@@ -14,7 +14,7 @@ course4 pointers
 https://www.coursera.org/learn/simulation-algorithm-analysis-pointers
 
 
-university of california, santa cruz
+## university of california, santa cruz
 
 c1 fundamentals
 https://www.coursera.org/learn/c-for-everyone
@@ -29,7 +29,7 @@ c++2
 https://www.coursera.org/learn/c-plus-plus-b
 
 
-pku c courses
+## pku c courses
 
 c1
 https://www.coursera.org/learn/jisuanji-biancheng?specialization=biancheng-suanfa
