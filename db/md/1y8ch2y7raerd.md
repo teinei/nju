@@ -7,12 +7,12 @@
 
 ## explanation keys
 * ractangle: entity =table
-* oval: attribute =coloumn=field 
+* oval: attribute =<b>coloumn</b>=field 
 	(degree is number of columns)
 * diamond: relationship sets
 * line: links attributes to entity set or vice versa
 
-row=tuple(cadinality is number of rows)
+<b>row</b>=<b>tuple</b>(cadinality is number of rows)
 
 ## relational schema and instance
 relational schema
