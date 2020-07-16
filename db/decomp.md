@@ -1,6 +1,0 @@
-# db decomposition and NF
-
-
-
-
-
