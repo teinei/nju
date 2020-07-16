@@ -65,4 +65,17 @@ or
 git branch --set-upstream-to=origin/master master
 ```
 
+## git revert HEAD
+use this command to bring back the last git rm *.md
+```
+git rm *.md
+```
+recover git deleted files
+```
+git revert HEAD
+```
+
+
+
+
 
